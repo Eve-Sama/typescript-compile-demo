@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Eve-Sama/typescript-compile-demo#readme",
   "devDependencies": {
+    "tsc": "^2.0.4",
     "typescript": "^4.7.4"
   }
 }
